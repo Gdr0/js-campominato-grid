@@ -43,6 +43,9 @@
   border-radius: 5px;
   font-size: large;
 }
+.seleziona-difficoltà :hover {
+  cursor: pointer;
+}
 .container-bottone :hover {
   cursor: pointer;
 }
